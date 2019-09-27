@@ -1,0 +1,5 @@
+C:\Flutter\Fund\Fundamentos CSharp\C3_BuildInTypesInCSharp\bin\Debug\C3_BuildInTypesInCSharp.exe.config
+C:\Flutter\Fund\Fundamentos CSharp\C3_BuildInTypesInCSharp\bin\Debug\C3_BuildInTypesInCSharp.exe
+C:\Flutter\Fund\Fundamentos CSharp\C3_BuildInTypesInCSharp\bin\Debug\C3_BuildInTypesInCSharp.pdb
+C:\Flutter\Fund\Fundamentos CSharp\C3_BuildInTypesInCSharp\obj\Debug\C3_BuildInTypesInCSharp.exe
+C:\Flutter\Fund\Fundamentos CSharp\C3_BuildInTypesInCSharp\obj\Debug\C3_BuildInTypesInCSharp.pdb

@@ -1,0 +1,5 @@
+C:\Flutter\Fund\Fundamentos CSharp\C2_ReadingAndWritingToConsole\bin\Debug\C2_ReadingAndWritingToConsole.exe.config
+C:\Flutter\Fund\Fundamentos CSharp\C2_ReadingAndWritingToConsole\bin\Debug\C2_ReadingAndWritingToConsole.exe
+C:\Flutter\Fund\Fundamentos CSharp\C2_ReadingAndWritingToConsole\bin\Debug\C2_ReadingAndWritingToConsole.pdb
+C:\Flutter\Fund\Fundamentos CSharp\C2_ReadingAndWritingToConsole\obj\Debug\C2_ReadingAndWritingToConsole.exe
+C:\Flutter\Fund\Fundamentos CSharp\C2_ReadingAndWritingToConsole\obj\Debug\C2_ReadingAndWritingToConsole.pdb

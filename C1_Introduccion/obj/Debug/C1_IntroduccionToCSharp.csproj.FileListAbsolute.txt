@@ -1,0 +1,6 @@
+C:\Flutter\Fund\Fundamentos CSharp\C1_Introduccion\bin\Debug\C1_Introduccion.exe.config
+C:\Flutter\Fund\Fundamentos CSharp\C1_Introduccion\bin\Debug\C1_Introduccion.exe
+C:\Flutter\Fund\Fundamentos CSharp\C1_Introduccion\bin\Debug\C1_Introduccion.pdb
+C:\Flutter\Fund\Fundamentos CSharp\C1_Introduccion\obj\Debug\C1_IntroduccionToCSharp.csprojAssemblyReference.cache
+C:\Flutter\Fund\Fundamentos CSharp\C1_Introduccion\obj\Debug\C1_Introduccion.exe
+C:\Flutter\Fund\Fundamentos CSharp\C1_Introduccion\obj\Debug\C1_Introduccion.pdb
